@@ -16,8 +16,8 @@ class App extends Component {
           </blockquote>
           <div>
             <h3>Example usage:</h3>
-            <code>https://timestamp-ms.herokuapp.com/December%2015,%202015</code>
-            <code>https://timestamp-ms.herokuapp.com/1450137600</code>
+            <code>https://kyawzintun.github.io/timestamp-ms/December%2015,%202015</code>
+            <code>https://kyawzintun.github.io/timestamp-ms/1450137600</code>
           </div>
           <div>
             <h3>Example output:</h3>

@@ -4,7 +4,7 @@ import App from './components/app';
 import Time from './components/time';
 
 const Routes = (props) => (
-  <BrowserRouter >
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
     <div>
       <Route exact path='/' component={App} />
       <Route exact path='/:timestring' component={Time} />
