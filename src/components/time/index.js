@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import Header from '../header/header';
 import './style.css';
 
-// const apiUrl = "https://kzt-timestamp-ms-api.herokuapp.com/timestamp-ms/";
-const apiUrl = "http://localhost:5000/timestamp-ms/";
+const apiUrl = "https://kzt-timestamp-ms-api.herokuapp.com/timestamp-ms/";
+// const apiUrl = "http://localhost:5000/timestamp-ms/";
 
 class Time extends Component {
   constructor() {
